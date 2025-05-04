@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C# Academy! OnemoremodXDD"); Console.WriteLine("Hello, C# Academy! OnemoremodXDD"); 
+﻿void MyFirstMethod()
+{
+    //Do something
+}
+
+void MySecondMethod()
+{
+    //Do something
+}
+
+void MySecondMethod()
+{
+    //Do something
+}
